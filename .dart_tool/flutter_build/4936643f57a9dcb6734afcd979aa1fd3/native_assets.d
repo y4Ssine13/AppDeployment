@@ -1,0 +1,1 @@
+ C:\\Users\\yas13\\Bureau\\yassine\\flutter\ code\\plant_saver_app\\.dart_tool\\flutter_build\\4936643f57a9dcb6734afcd979aa1fd3\\native_assets.yaml: 
